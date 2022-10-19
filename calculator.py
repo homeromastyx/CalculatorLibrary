@@ -4,6 +4,7 @@ Calculator library containing basic math operations.
 
 
 def add(first_term, second_term):
+    # This is a dummy comment
     return first_term + second_term
 
 
